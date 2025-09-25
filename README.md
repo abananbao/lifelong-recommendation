@@ -7,3 +7,4 @@
 | **Taobao** | [https://tianchi.aliyun.com/dataset/649](https://tianchi.aliyun.com/dataset/649) |
 | **Taobao** | [https://tianchi.aliyun.com/dataset/56#1](https://tianchi.aliyun.com/dataset/56#1) |
 | **KuaiRand** | [https://github.com/chongminggao/KuaiRand](https://github.com/chongminggao/KuaiRand) |
+| **KuaiRec** | [https://github.com/chongminggao/KuaiRec](https://github.com/chongminggao/KuaiRec) |
